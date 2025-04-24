@@ -1,3 +1,4 @@
+give 2 binary string and give a new binary string of sum 
 class Solution {
 public:
     string addBinary(string a, string b) {
